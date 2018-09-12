@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Desktop/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joata.magalhaes/Documents/Meus Arquivos Recebidos/java-client-6.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
